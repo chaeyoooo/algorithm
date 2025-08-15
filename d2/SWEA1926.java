@@ -35,14 +35,14 @@
 //    }
 //}
 
-package swea;
+package swea.d2;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 public class SWEA1926 {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("swea/input.txt"); // 파일 객체
+        File file = new File("swea/d2/input.txt"); // 파일 객체
         Scanner sc = new Scanner(file);
 
         int N = sc.nextInt(); // 100
