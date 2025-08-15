@@ -1,4 +1,4 @@
-package swea;
+package swea.linked;
 
 public class Node {
     public Integer data; // 데이터 필드
