@@ -1,4 +1,4 @@
-package swea;
+package swea.linked;
 
 public class LinkedStack {
     Node top; // 포인터 변수

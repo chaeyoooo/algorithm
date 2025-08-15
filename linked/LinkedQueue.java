@@ -1,4 +1,4 @@
-package swea;
+package swea.linked;
 
 public class LinkedQueue {
     Node front;
